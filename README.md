@@ -126,7 +126,8 @@ aStarAlgo(start, goal)
 <h2>Sample Graph I</h2>
 <hr>
 
-![image](https://github.com/user-attachments/assets/fa11e1e3-dc26-4183-b2de-157b2643dad5)
+![image](https://github.com/user-attachments/assets/0a1563d7-4a62-42bc-bf7f-46e06cbf2402)
+
 
 
 <hr>
@@ -191,6 +192,8 @@ G 0 <br>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
 <hr>
-![image](https://github.com/user-attachments/assets/28eaf44c-e380-4e26-a6dd-84ac1a3c16e5)
+![Screenshot 2025-04-24 201659](https://github.com/user-attachments/assets/320baa2c-5569-4309-b6f3-60086cdfdd90)
+
+
 <h2>Result</h2>
 Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully.
