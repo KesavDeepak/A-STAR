@@ -126,7 +126,8 @@ aStarAlgo(start, goal)
 <h2>Sample Graph I</h2>
 <hr>
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
+![image](https://github.com/user-attachments/assets/fa11e1e3-dc26-4183-b2de-157b2643dad5)
+
 
 <hr>
 <h2>Sample Input</h2>
