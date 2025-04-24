@@ -192,6 +192,7 @@ G 0 <br>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
 <hr>
+
 ![Screenshot 2025-04-24 201659](https://github.com/user-attachments/assets/320baa2c-5569-4309-b6f3-60086cdfdd90)
 
 
